@@ -33,13 +33,11 @@ knitr::write_bib(c(
 
 **Book Name:** Fundamentals of Quantitative Analysis
 
-**Summary:** Materials for the University of Glasgow School of Psychology & Neuroscience Research Methods modules for MSc students. 
+**Summary:** Materials for Quantitative Fundamentals
 
 **Authors:** Emily Nordmann & Phil McAleer
 
 **Aim:** This course covers data skills such as R Markdown, data wrangling with tidyverse, and data visualisation with ggplot2. It also introduces statistical concepts such as Null Hypothesis Significance Testing (NHST), alpha, power, effect size, and sample size, as well as demonstrating how to perform numerous analyses based around the general linear model including correlations, t-tests, ANOVAs and Regression.
-
-**Contact:** This book is a living document and will be regularly checked and updated for improvements. Should you have any issues using the book or queries, please contact [Phil McAleer](mailto:philip.mcaleer@glasgow.ac.uk).
 
 **R Version:** This book has been written with `r R.version.string`
      
